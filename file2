@@ -1,1 +1,11 @@
 aaaaaaaaaaaa
+pipeline {
+  agent any
+  stages{
+  stages('clone'){
+  steps{
+  gitjgsfhhjrkh 'hfdggfvjhb'
+ }
+ }
+}
+}
